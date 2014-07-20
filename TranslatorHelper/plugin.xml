@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+   <extension
+         point="org.eclipse.ui.menus">
+      <menuContribution
+            allPopups="false"
+            locationURI="toolbar:org.eclipse.ui.main.toolbar">
+         <toolbar
+               id="org.samsu.wordstranslation.toolbar">
+            <command
+                  commandId="org.samsu.wordstranslation.popupActionCommand"
+                  icon="icon/menu.png"
+                  style="push"
+                  tooltip="有道翻译">
+            </command>
+         </toolbar>
+      </menuContribution>
+   </extension>
+   <extension
+         point="org.eclipse.ui.commands">
+      <command
+            id="org.samsu.wordstranslation.popupActionCommand"
+            name="name">
+         <defaultHandler
+               class="org.samsu.youdaofanyi.ui.OpenDialogHandler">
+            <parameter
+                  name="WordsTranslation.parameter1"
+                  value="WordsTranslation.parameter1">
+            </parameter>
+         </defaultHandler>
+      </command>
+   </extension>
+
+</plugin>
