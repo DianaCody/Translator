@@ -10,3 +10,8 @@
 > * 直接在Eclipse IDE里即可得到翻译取词，无需另外再开启单独词典功能
 > * 代码支持同步翻译
 > * 实时查询，方便快捷
+
+### **插件jar包下载**
+eclipse翻译插件，支持在线查询单词，把jar包放到plugin目录下即可安装插件
+
+[点击下载](http://dldx.csdn.net/fd.php?i=388676590813578&s=f9026c03f59835c4d1aa4e7e6b0416dahttp://dldx.csdn.net/fd.php?i=137576590936550&s=0ae236ec55381840079b08dd73f5147f)
