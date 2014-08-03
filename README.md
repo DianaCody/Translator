@@ -12,6 +12,6 @@
 > * 实时查询，方便快捷
 
 ### **插件jar包下载**
-eclipse翻译插件，支持在线查询单词，把jar包放到plugin目录下即可安装插件
+eclipse翻译插件，支持在线查询单词，把jar包放到plugin目录下即可安装插件，下载链接：http://download.csdn.net/detail/dianacody/7659093
 
 [点击下载](http://dldx.csdn.net/fd.php?i=123576590939987&s=820f7fe5aac6ba77fe2cfd22eed73a76)
