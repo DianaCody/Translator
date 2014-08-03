@@ -11,7 +11,10 @@
 > * 代码支持同步翻译
 > * 实时查询，方便快捷
 
-### **插件jar包下载**
+### **1.效果图**
+![tool-editor](https://github.com/DianaCody/Translator/blob/master/TranslatorHelper/icon/translate.PNG)
+
+### **2.插件jar包下载**
 eclipse翻译插件，支持在线查询单词，把jar包放到plugin目录下即可安装插件，下载链接：http://download.csdn.net/detail/dianacody/7659093
 
 [点击下载](http://download.csdn.net/detail/dianacody/7659093)
